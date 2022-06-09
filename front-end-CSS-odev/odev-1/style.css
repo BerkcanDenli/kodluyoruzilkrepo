@@ -1,0 +1,83 @@
+a, a:hover, a:focus, a:active {
+
+    color: inherit;
+    
+}
+
+/* Başlıklar */
+
+.header {
+
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+    font-size:44px;
+
+}
+
+.header2 {
+
+    text-decoration: underline;
+   text-align: center;
+   color: red;
+   font-size: 30px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.header3 {
+
+    text-decoration: underline;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 30px;
+}
+
+/* Başlıklar */
+
+.menu {
+    
+    text-align: center; 
+    color: inherit;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+
+.lorem1 {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+}
+
+/* Listeler */
+
+.liste2 {
+    
+    font-family: 'Roboto', sans-serif;
+    max-width:fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    list-style-position: inside;
+    
+}
+
+.liste2 img {
+
+    width: 300px;
+    height: auto;
+
+}
+
+.no-bullets {
+    
+    color: blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    list-style-type: none;
+
+}
+
+/* Listeler */

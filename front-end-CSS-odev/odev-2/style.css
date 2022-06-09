@@ -1,0 +1,96 @@
+ /* LOGO */
+
+ .resim {
+     
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+ }
+
+/* Searchbar */
+
+ .table {
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+ }
+
+ .row {
+    
+    text-align: center;
+    background-color: #EEEEEE;
+    width:2300px;
+    height: 90px;
+
+ }
+
+ .searchbar {
+
+   width: 300px;
+
+ }
+
+
+.bar {
+  
+   border-radius: 4px;
+   padding: 3px;
+   border:1px solid ;  
+   background-color:#EEEEEE;
+  
+ }
+
+/* footer */
+
+.red {
+  
+  text-align: center;
+  border: 1px solid;
+  background-color: #EEEEEE;
+  border-radius: 4px;
+
+}
+
+.column {
+
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+.left {
+
+  border:2px solid white;
+  height: 100px;
+  background-color: #7EE5DA;
+  width: 850px;
+}
+
+.middle {
+
+  border: 2px solid white;
+  background-color:#0fb8a4;
+  height: 100px;
+  width: 600px;
+
+}
+
+.right {
+
+  border: 2px solid white;
+  height: 100px;
+  width: 845px;
+  background-color:#62B3AA ;
+
+}
+
+.list { 
+  
+  font-size: 14px;
+  list-style: none;
+
+}
